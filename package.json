@@ -1,0 +1,15 @@
+{
+  "name": "strive-countdown-timer",
+  "description": "Implements a countdown timer class as a JavaScript debugging exercise for Strive Talent",
+  "version": "1.0.6",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StriveTalent/strive-countdown-timer.git",
+    "private": true
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
